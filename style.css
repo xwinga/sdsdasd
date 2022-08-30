@@ -1,0 +1,39 @@
+
+body {
+    color:wheat;
+    background-color:sandybrown;
+    font-family: 'Smooch Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+.header_div {
+    background-color: salmon;
+    color:rgb(255, 234, 0);
+}
+.header_div p{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: medium;
+background-color: salmon;
+}
+.Name_div {
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 10px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.Footer {
+    background-color: salmon;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+#hd {
+    color: antiquewhite;
+}
+.b1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    background-color: coral;
+}
